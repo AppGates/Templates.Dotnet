@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Sdk="AppGates.Build.ApiManagement.Sdk" Version="1.1.3.1609081814" Project="Sdk.props"/>
+</Project>
